@@ -36,13 +36,13 @@ To Create a player movement using pawn, collectible, player health, and score.
 
 ## OUTPUT:
 
-#### Starting position of the player:
+### Starting position of the player:
 ![image](https://github.com/Aashima02/Pawn-Movement/assets/93427086/a07560f0-ad0e-4812-a6e8-80049c24d89f)
 
-#### Destroying the coins:
+### Destroying the coins:
 ![image](https://github.com/Aashima02/Pawn-Movement/assets/93427086/a3dc2dc5-4aa5-4499-84d7-35246add6266)
 
-#### After destroying all the coins, the score and health bars get updated:
+### After destroying all the coins, the score and health bars get updated:
 ![image](https://github.com/Aashima02/Pawn-Movement/assets/93427086/e7b6f849-a07b-46f2-bec6-bee5b0cefc64)
 
 ## PROCEDURE:
@@ -89,13 +89,13 @@ To Create a player movement using pawn, collectible, player health, and score.
 
 ## CONNECTIONS:
 
-#### Play Button:
+### Play Button:
 ![image](https://github.com/Aashima02/Pawn-Movement/assets/93427086/f9abbce1-d07f-4486-a7f4-7b174e5fe11c)
 
-#### Quit Button:
+### Quit Button:
 ![image](https://github.com/Aashima02/Pawn-Movement/assets/93427086/d1572e81-d8ba-4e29-8927-517e30dcd69f)
 
-#### Back Button:
+### Back Button:
 ![image](https://github.com/Aashima02/Pawn-Movement/assets/93427086/1fe733d1-d506-4d1d-a338-87dcea1f6193)
 
 ## RESULT:
